@@ -1,5 +1,7 @@
 # Notify Workflow Completed GitHub Action
 
+:warning: **This project is DEPRECATED.** The action has been moved to [the keep-network/ci repository](https://github.com/keep-network/ci/tree/main/actions/notify-workflow-completed)!
+
 This is a GitHub Action that notifies release management workflow about a workflow
 completion.
 
